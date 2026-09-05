@@ -1,3 +1,2 @@
 # Python-
-new Beginning of Python
-learning from the Shradha Khapra
+Strating my Python learning journey with Shradha Khapra course
