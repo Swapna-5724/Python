@@ -22,4 +22,3 @@ print(len2)
 final_str = str1 + " " + str2   # In the length of string the space is also counted as a character
 print(final_str)
 print(len(final_str))
-
