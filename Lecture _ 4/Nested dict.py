@@ -84,5 +84,3 @@ new_dict = {"city" : "delhi"}
 student.update(new_dict)
 
 print(student)
-
-
