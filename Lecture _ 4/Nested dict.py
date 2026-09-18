@@ -58,7 +58,7 @@ print(pairs[1])
 
 
 print(student["name2"])      #error
-print(student.get("name2"))    # no error -> None
+print(student.get("name2"))    # no error -> None because, here name2 element was not mentioned in the above data
 
 print("hi")
 print("welcome to")
