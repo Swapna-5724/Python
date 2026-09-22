@@ -48,3 +48,28 @@ x = input("enter chem : ")
 marks.update({"chem" : x})
 
 print(marks)
+
+
+
+
+
+#   Question  =  04
+
+#  Figure out a way to store 9 & 9.0 as separate values in the set.
+#  (You can take help of built-in data types)
+
+# values = {9, 9.0}
+# values = {9, 9.25}
+# values = {9, 9.25, 8, 8.0}
+# values = {9, "9.0"}
+values = {"9", 9.0}
+print(values)
+
+
+#   2nd Possible solution
+
+values = {
+    ("float", 9.0),
+    ("int", 9)
+}
+print(values)
